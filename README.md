@@ -22,6 +22,7 @@
 
 ### Courses
 
+- 💡 [Data Ethics Club - Reading List](https://very-good-science.github.io/data-ethics-club/contents/reading-list.html) - University of Bristol
 - [Ethics in AI Seminar series](https://youtube.com/playlist?list=PLf4lTwFHevBvrV51fy4iMe5lMLLXqhb4P) - Institute for Ethics in AI Oxford
 - [Ethics in AI Colloquium series](https://youtube.com/playlist?list=PLf4lTwFHevBuvTDX4m8N5WVAX62IkhXJ7) - Institute for Ethics in AI Oxford
 - [Practical Data Ethics](https://youtube.com/playlist?list=PLtmWHNX-gukKHo6LBrdq82QadvUEwyaJ7) - Rachel Thomas, Fastai
