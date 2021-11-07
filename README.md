@@ -18,6 +18,7 @@
 ### Books
 
 - [Philosophy Textbooks](https://open.umn.edu/opentextbooks/subjects/philosophy) - Open Texbook Library
+- [PhilPapers](https://philpapers.org/) - A comprehensive index of the research literature in philosophy
 
 ### **Data Ethics**
 
