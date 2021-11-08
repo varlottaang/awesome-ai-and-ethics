@@ -20,6 +20,7 @@
 - [Philosophy Textbooks](https://open.umn.edu/opentextbooks/subjects/philosophy) - Open Texbook Library
 - [PhilPapers](https://philpapers.org/) - A comprehensive index of the research literature in philosophy
 
+
 ### **Data Ethics**
 
 ### Courses
@@ -43,6 +44,7 @@
 
 - [Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai/) - Stanford Encyclopedia of Philosophy
 
+
 ### **Data Science and Deep Learning**
 
 ### Courses
@@ -60,8 +62,7 @@
 
 ### Resources
 
-- [Next journal](https://nextjournal.com/)
 - [Papers with code](https://paperswithcode.com/)
 - [Zindi](https://zindi.africa/)
-
+- [Next journal](https://nextjournal.com/)
 ---
