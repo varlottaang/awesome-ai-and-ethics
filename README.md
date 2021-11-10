@@ -25,7 +25,7 @@
 
 ### Courses
 
-- 💡 [Data Ethics Club - Reading List](https://very-good-science.github.io/data-ethics-club/contents/reading-list.html) - University of Bristol
+- 💫 ==[Data Ethics Club - Reading List](https://very-good-science.github.io/data-ethics-club/contents/reading-list.html)== - University of Bristol
 - [Ethics in AI Seminar series](https://youtube.com/playlist?list=PLf4lTwFHevBvrV51fy4iMe5lMLLXqhb4P) - Institute for Ethics in AI Oxford
 - [Ethics in AI Colloquium series](https://youtube.com/playlist?list=PLf4lTwFHevBuvTDX4m8N5WVAX62IkhXJ7) - Institute for Ethics in AI Oxford
 - [You and AI](https://youtube.com/playlist?list=PLqYmG7hTraZC5LmYvoouafdMPKRVZJOSv) - The Royal Society
@@ -44,6 +44,7 @@
 
 ### Resources
 
+- 💫 ==[The Turing Way](https://the-turing-way.netlify.app/welcome)== handbook to reproducible, ethical and collaborative data science
 - [Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai/) - Stanford Encyclopedia of Philosophy
 
 
