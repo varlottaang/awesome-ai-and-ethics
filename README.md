@@ -28,11 +28,13 @@
 - 💡 [Data Ethics Club - Reading List](https://very-good-science.github.io/data-ethics-club/contents/reading-list.html) - University of Bristol
 - [Ethics in AI Seminar series](https://youtube.com/playlist?list=PLf4lTwFHevBvrV51fy4iMe5lMLLXqhb4P) - Institute for Ethics in AI Oxford
 - [Ethics in AI Colloquium series](https://youtube.com/playlist?list=PLf4lTwFHevBuvTDX4m8N5WVAX62IkhXJ7) - Institute for Ethics in AI Oxford
+- [You and AI](https://youtube.com/playlist?list=PLqYmG7hTraZC5LmYvoouafdMPKRVZJOSv) - The Royal Society
 - [Practical Data Ethics](https://youtube.com/playlist?list=PLtmWHNX-gukKHo6LBrdq82QadvUEwyaJ7) - Rachel Thomas, Fastai
 - [Decolonising Education: from theory to practice](https://www.futurelearn.com/courses/decolonising-education-from-theory-to-practice) - University of Bristol
 
 ### Books
 
+- [The fastai book - Ch. 3 Data Ethics](https://github.com/fastai/fastbook/blob/master/03_ethics.ipynb) - Rachel Thomas
 - [An Introduction to Ethics in Robotics and AI](https://library.oapen.org/handle/20.500.12657/41303) - Springer
 - [Artificial Intelligence for a Better Future](https://library.oapen.org/handle/20.500.12657/48228) - Springer
 - [Philosophy of Advanced Medical Imaging](https://link.springer.com/book/10.1007/978-3-030-61412-6) - Springer
@@ -49,14 +51,16 @@
 
 ### Courses
 
-- [milliams.com](https://milliams.com/courses/) - Matt Williams, University of Bristol
 - [Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - 3blue1brown
+- [A Beginner's Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0) - Dan Shiffman
+- [milliams.com](https://milliams.com/courses/) - Matt Williams, University of Bristol
+A series of courses on Python, Data Analysis and Software Engineering
 - [Practical Deep Learning for Coders](https://youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM) - Jeremy Howard, Fastai
 - [Intuition for the Algorithms of Machine Learning](https://youtube.com/playlist?list=PLNeXFnYrCJneoY_rKtWJy833YiMrCRi5f) - Cynthia Rudin, Duke University
 
 ### Books
 
-- [The fastai book](https://github.com/fastai/fastbook) - Jeremy Howard and Sylvain Gugger, 2020
+- [The fastai book](https://github.com/fastai/fastbook) - J. Howard and S. Gugger, 2020
 - [Applications of Deep Neural Nerworks](https://arxiv.org/abs/2009.05673) - Jeff Heaton
 - 🔒 [Deep learning with Python, 2nd edition](https://www.manning.com/books/deep-learning-with-python-second-edition) - Francois Chollet
 
@@ -65,4 +69,5 @@
 - [Papers with code](https://paperswithcode.com/)
 - [Zindi](https://zindi.africa/)
 - [Next journal](https://nextjournal.com/)
+- [ml5js.org](https://ml5js.org)
 ---
