@@ -6,6 +6,7 @@
 ### Courses
 
 - [Intro to Philosophy](https://youtube.com/playlist?list=PLwJ2VKmefmxqgjDHRppT_jnqEXuKLmKY6) - Edinburgh University 
+- [Philosophy](https://youtube.com/playlist?list=PLHKVjBSDqMB6O2cV5EjYBmdORdkUotNfF) - University College Dublin
 - [General Philosophy](https://youtube.com/playlist?list=PL2FEB728FF960FBD9) - University of Oxford
 - [A Romp Through Ethics for Complete Beginners](http://podcasts.ox.ac.uk/series/romp-through-ethics-complete-beginners) - University of Oxford
 - [Global Ethics: An Introduction](https://www.futurelearn.com/courses/global-ethics) - Open University
