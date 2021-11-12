@@ -1,6 +1,9 @@
 # Good AI and Ethics ❤
 # Starter pack 🚀
 
+This is a list of resources about AI and Ethics. The list is inspired by Data Ethics Club at Bristol University and it's a companion to the Data Ethics Club Reading list, a series of papers and data ethics materials suggested by the community. 
+
+
 ### **Philosophy and Ethics**
 
 ### Courses
@@ -26,7 +29,7 @@
 
 ### Courses
 
-- 💫 ==[Data Ethics Club - Reading List](https://very-good-science.github.io/data-ethics-club/contents/reading-list.html)== - University of Bristol
+- 💫 [Data Ethics Club - Reading List](https://very-good-science.github.io/data-ethics-club/contents/reading-list.html) - University of Bristol
 - [Ethics in AI Seminar series](https://youtube.com/playlist?list=PLf4lTwFHevBvrV51fy4iMe5lMLLXqhb4P) - Institute for Ethics in AI Oxford
 - [Ethics in AI Colloquium series](https://youtube.com/playlist?list=PLf4lTwFHevBuvTDX4m8N5WVAX62IkhXJ7) - Institute for Ethics in AI Oxford
 - [You and AI](https://youtube.com/playlist?list=PLqYmG7hTraZC5LmYvoouafdMPKRVZJOSv) - The Royal Society
@@ -42,10 +45,11 @@
 - [Open Science: the Very Idea](https://link.springer.com/book/10.1007/978-94-024-2115-6) - Frank Miedema, Springer
 - 🔒 [AI Ethics](https://mitpress.mit.edu/books/ai-ethics) - Mark Coeckelbergh, MIT Press
 - 🔒 [New Laws of Robotics](https://www.hup.harvard.edu/catalog.php?isbn=9780674975224) - Frank Pasquale, HUP
+- [Interpretable Machine Learning: Fundamental Principles and 10 Grand Challenges](https://arxiv.org/abs/2103.11251) - Cynthia Rudin et al.
 
 ### Resources
 
-- 💫 ==[The Turing Way](https://the-turing-way.netlify.app/welcome)== handbook to reproducible, ethical and collaborative data science
+- 💫 [The Turing Way](https://the-turing-way.netlify.app/welcome) handbook to reproducible, ethical and collaborative data science
 - [Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai/) - Stanford Encyclopedia of Philosophy
 
 
