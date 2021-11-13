@@ -1,7 +1,7 @@
 # Good AI and Ethics ❤
 # Starter pack 🚀
 
-This is a list of resources about AI and Ethics. The list is inspired by Data Ethics Club at Bristol University and it's a companion to the Data Ethics Club Reading list, a series of papers and data ethics materials suggested by the community. 
+This repository is a list of resources about AI and Ethics, and it's inspired by [Data Ethics Club](https://very-good-science.github.io/data-ethics-club/index.html) at Bristol University.
 
 
 ### **Philosophy and Ethics**
@@ -10,7 +10,6 @@ This is a list of resources about AI and Ethics. The list is inspired by Data Et
 
 - [Intro to Philosophy](https://youtube.com/playlist?list=PLwJ2VKmefmxqgjDHRppT_jnqEXuKLmKY6) - Edinburgh University 
 - [Philosophy](https://youtube.com/playlist?list=PLHKVjBSDqMB6O2cV5EjYBmdORdkUotNfF) - University College Dublin
-- [General Philosophy](https://youtube.com/playlist?list=PL2FEB728FF960FBD9) - University of Oxford
 - [A Romp Through Ethics for Complete Beginners](http://podcasts.ox.ac.uk/series/romp-through-ethics-complete-beginners) - University of Oxford
 - [Global Ethics: An Introduction](https://www.futurelearn.com/courses/global-ethics) - Open University
 - [Introduction to Philosophy of Science](https://youtube.com/playlist?list=PLd92KgCb6HeN8yxbr7HjineMC9YzfbxM9) - Schurz Lectures, HHU Düsseldorf
@@ -41,7 +40,7 @@ This is a list of resources about AI and Ethics. The list is inspired by Data Et
 - [The fastai book - Ch. 3 Data Ethics](https://github.com/fastai/fastbook/blob/master/03_ethics.ipynb) - Rachel Thomas
 - [An Introduction to Ethics in Robotics and AI](https://library.oapen.org/handle/20.500.12657/41303) - Springer
 - [Artificial Intelligence for a Better Future](https://library.oapen.org/handle/20.500.12657/48228) - Springer
-- [Philosophy of Advanced Medical Imaging](https://link.springer.com/book/10.1007/978-3-030-61412-6) - Springer
+- 🔒 [Philosophy of Advanced Medical Imaging](https://link.springer.com/book/10.1007/978-3-030-61412-6) - Springer
 - [Open Science: the Very Idea](https://link.springer.com/book/10.1007/978-94-024-2115-6) - Frank Miedema, Springer
 - 🔒 [AI Ethics](https://mitpress.mit.edu/books/ai-ethics) - Mark Coeckelbergh, MIT Press
 - 🔒 [New Laws of Robotics](https://www.hup.harvard.edu/catalog.php?isbn=9780674975224) - Frank Pasquale, HUP
@@ -67,6 +66,7 @@ A series of courses on Python, Data Analysis and Software Engineering
 ### Books
 
 - [The fastai book](https://github.com/fastai/fastbook) - J. Howard and S. Gugger, 2020
+- [Dive into Deep Learning](https://d2l.ai) - Interactive deep learning book with code, math, and discussions
 - [Applications of Deep Neural Nerworks](https://arxiv.org/abs/2009.05673) - Jeff Heaton
 - 🔒 [Deep learning with Python, 2nd edition](https://www.manning.com/books/deep-learning-with-python-second-edition) - Francois Chollet
 
