@@ -1,7 +1,8 @@
-# Good AI and Ethics ❤
+# Awesome AI and Ethics ❤
 # Starter pack 🚀
 
-This repository is a list of resources about AI and Ethics, and it's inspired by [Data Ethics Club](https://very-good-science.github.io/data-ethics-club/index.html) at Bristol University.
+This repository is a list of resources about AI and Ethics, and it's inspired by [Data Ethics Club](https://dataethicsclub.com/index.html) at Bristol University.
+I'll discuss of the material of this list and about machine learning and ethics in general on my blog on Medium 💬 [Awesome AI and Ethics](https://medium.com/awesome-ai-and-ethics)
 
 
 ### **Philosophy and Ethics**
@@ -28,7 +29,19 @@ This repository is a list of resources about AI and Ethics, and it's inspired by
 
 ### Courses
 
-- 💫 [Data Ethics Club - Reading List](https://very-good-science.github.io/data-ethics-club/contents/reading-list.html) - University of Bristol
+
+💫 [Data Ethics Club - Reading List](https://dataethicsclub.com/reading-list.html) - University of Bristol:
+
+> [What is data ethics?](https://royalsocietypublishing.org/doi/10.1098/rsta.2016.0360) 
+> 
+> [Introduction to Research Ethics](https://the-turing-way.netlify.app/ethical-research/ethics-intro.html)
+> 
+> [Ethical Artificial Intelligence](https://arxiv.org/pdf/1411.1373.pdf) 
+> 
+> [Ethical principles in machine learning and artificial intelligence: cases from the field and possible ways forward](https://www.nature.com/articles/s41599-020-0501-9)
+> 
+> [Fall 2021 Tech Ethics & Policy by Casey Fiesler](https://docs.google.com/document/d/1tWdqYqYBHARbZXFQX4cybe88S-0twqvUu1xLhYnLgU4/edit# )
+
 - [Ethics in AI Seminar series](https://youtube.com/playlist?list=PLf4lTwFHevBvrV51fy4iMe5lMLLXqhb4P) - Institute for Ethics in AI Oxford
 - [Ethics in AI Colloquium series](https://youtube.com/playlist?list=PLf4lTwFHevBuvTDX4m8N5WVAX62IkhXJ7) - Institute for Ethics in AI Oxford
 - [You and AI](https://youtube.com/playlist?list=PLqYmG7hTraZC5LmYvoouafdMPKRVZJOSv) - The Royal Society
@@ -40,10 +53,7 @@ This repository is a list of resources about AI and Ethics, and it's inspired by
 - [The fastai book - Ch. 3 Data Ethics](https://github.com/fastai/fastbook/blob/master/03_ethics.ipynb) - Rachel Thomas
 - [An Introduction to Ethics in Robotics and AI](https://library.oapen.org/handle/20.500.12657/41303) - Springer
 - [Artificial Intelligence for a Better Future](https://library.oapen.org/handle/20.500.12657/48228) - Springer
-- 🔒 [Philosophy of Advanced Medical Imaging](https://link.springer.com/book/10.1007/978-3-030-61412-6) - Springer
 - [Open Science: the Very Idea](https://link.springer.com/book/10.1007/978-94-024-2115-6) - Frank Miedema, Springer
-- 🔒 [AI Ethics](https://mitpress.mit.edu/books/ai-ethics) - Mark Coeckelbergh, MIT Press
-- 🔒 [New Laws of Robotics](https://www.hup.harvard.edu/catalog.php?isbn=9780674975224) - Frank Pasquale, HUP
 - [Interpretable Machine Learning: Fundamental Principles and 10 Grand Challenges](https://arxiv.org/abs/2103.11251) - Cynthia Rudin et al.
 
 ### Resources
@@ -60,15 +70,14 @@ This repository is a list of resources about AI and Ethics, and it's inspired by
 - [A Beginner's Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0) - Dan Shiffman
 - [milliams.com](https://milliams.com/courses/) - Matt Williams, University of Bristol
 A series of courses on Python, Data Analysis and Software Engineering
-- [Practical Deep Learning for Coders](https://youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM) - Jeremy Howard, Fastai
+- [Neuromatch deep learning course](https://deeplearning.neuromatch.io/tutorials/intro.html) - Neuromatch Academy
+- [Pytorch Tutorials](https://pytorch.org/tutorials/) - PyTorch
 - [Intuition for the Algorithms of Machine Learning](https://youtube.com/playlist?list=PLNeXFnYrCJneoY_rKtWJy833YiMrCRi5f) - Cynthia Rudin, Duke University
 
 ### Books
-
 - [The fastai book](https://github.com/fastai/fastbook) - J. Howard and S. Gugger, 2020
 - [Dive into Deep Learning](https://d2l.ai) - Interactive deep learning book with code, math, and discussions
 - [Applications of Deep Neural Nerworks](https://arxiv.org/abs/2009.05673) - Jeff Heaton
-- 🔒 [Deep learning with Python, 2nd edition](https://www.manning.com/books/deep-learning-with-python-second-edition) - Francois Chollet
 
 ### Resources
 
