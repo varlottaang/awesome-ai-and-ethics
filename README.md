@@ -1,9 +1,7 @@
-# Awesome AI and Ethics ❤
+# Awesome AI and Ethics 🦉
 # Starter pack 🚀
 
 This repository is a list of resources about AI and Ethics, and it's inspired by [Data Ethics Club](https://dataethicsclub.com/index.html) at Bristol University.
-I'll discuss of the material of this list and about machine learning and ethics in general on my blog on Medium 💬 [Awesome AI and Ethics](https://medium.com/awesome-ai-and-ethics)
-
 
 ### **Philosophy and Ethics**
 
@@ -81,6 +79,7 @@ A series of courses on Python, Data Analysis and Software Engineering
 
 ### Resources
 
+- [Data Ethics Club](https://dataethicsclub.com/index.html)
 - [Papers with code](https://paperswithcode.com/)
 - [Zindi](https://zindi.africa/)
 - [Next journal](https://nextjournal.com/)
