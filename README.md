@@ -71,7 +71,7 @@ I'll discuss of the material of this list and about machine learning and ethics 
 - [milliams.com](https://milliams.com/courses/) - Matt Williams, University of Bristol
 A series of courses on Python, Data Analysis and Software Engineering
 - [Neuromatch deep learning course](https://deeplearning.neuromatch.io/tutorials/intro.html) - Neuromatch Academy
-- [Pytorch Tutorials](https://pytorch.org/tutorials/) - PyTorch
+- [NYU Deep Learning FL22](https://youtube.com/playlist?list=PLLHTzKZzVU9d_3TcHbyiAjl5qCbpJR-o0) - NYU Deep Learning FL22
 - [Intuition for the Algorithms of Machine Learning](https://youtube.com/playlist?list=PLNeXFnYrCJneoY_rKtWJy833YiMrCRi5f) - Cynthia Rudin, Duke University
 
 ### Books
